@@ -1,0 +1,14 @@
+{
+  "name": "ln_share",
+  "version": "1.0.0",
+  "description": "Cascading payments PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davisv7",
+  "license": "MIT",
+  "dependencies": {
+    "ln-service": "^53.4.2"
+  }
+}
